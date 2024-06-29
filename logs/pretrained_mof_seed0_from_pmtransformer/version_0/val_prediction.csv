@@ -1,0 +1,3 @@
+cif_id,regression_logits,regression_labels
+acs+N270+E33,0.61083984375,1.0
+smm+N577+E166,0.38623046875,1.0
